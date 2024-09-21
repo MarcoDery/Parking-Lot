@@ -1,0 +1,13 @@
+1. Package Name
+El package name es un identificador único para tu aplicación en Android. Generalmente sigue la convención de un dominio invertido, como com.ejemplo.miapp. Este nombre es crucial porque se utiliza para distinguir tu aplicación de otras en Google Play Store y en el sistema operativo Android.
+
+2. API
+API (Interfaz de Programación de Aplicaciones) es un conjunto de definiciones y protocolos que permiten que diferentes aplicaciones se comuniquen entre sí. En el contexto de Android, puedes utilizar APIs para acceder a funcionalidades del sistema operativo, como la cámara, servicios de ubicación o interacciones con otros servicios web.
+
+3. Folder res
+La carpeta res (resources) en un proyecto de Android contiene todos los recursos no código, como:
+    Imágenes (en res/drawable)
+    Cadenas de texto (en res/values/strings.xml)
+    Diseños de interfaz (en res/layout)
+    Estilos y temas (en res/values/styles.xml)
+Esta organización ayuda a mantener los recursos de la aplicación separados del código, lo que facilita la gestión y la localización de la aplicación.
